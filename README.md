@@ -84,8 +84,6 @@ Aumente sua produtividade, automatize suas tarefas e tenha uma assistente que ap
 
 ## 😄 **Rindo de Leve!**
 
-A vida também é feita de diversão. Aqui vai uma piada para dar boas risadas enquanto você explora as possibilidades com a Segunda-feira: 😜
-
 **“Eu tentei colocar uma senha no meu computador... mas ele não me deixou entrar.”** 🤦‍♂️😂
 
 ---
