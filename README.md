@@ -1,4 +1,4 @@
-Claro! Aqui está a versão editada do seu markdown com a inclusão de GIFs:
+Claro! Aqui está uma versão atualizada com um GIF engraçado adicionado no final:
 
 ---
 
@@ -94,4 +94,8 @@ Seja para organizar seu dia, automatizar tarefas ou até aprender algo novo, Seg
 
 ---
 
-Agora seu markdown conta com imagens de GIFs que ilustram as funcionalidades de forma divertida e interativa!
+## 😂 Para Descontrair
+E, claro, para manter o bom humor, aqui vai um GIF engraçado para você aproveitar:  
+![GIF Engraçado](https://media.giphy.com/media/l0MYB8tBRtgdpgVXA/giphy.gif)
+
+---
